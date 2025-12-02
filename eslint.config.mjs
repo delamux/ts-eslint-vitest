@@ -13,6 +13,7 @@ export default neostandard({
     rules: {
       '@typescript-eslint/explicit-module-boundary-types': 0,
       'no-console': 1,
+      '@stylistic/max-len': ['error', { code: 100, comments: 70 }],
       'import/order': [
         'error',
         {
