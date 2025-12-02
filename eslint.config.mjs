@@ -1,6 +1,7 @@
 import importPlugin from 'eslint-plugin-import';
 import neostandard from 'neostandard';
 
+/** @type {import('eslint').Linter.Config[]} */
 export default neostandard({
   semi: true,
   ts: true,
