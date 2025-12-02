@@ -30,7 +30,7 @@ export default neostandard({
             caseInsensitive: true,
           },
         },
-      ],
+      ]
     },
   },
 ]);
