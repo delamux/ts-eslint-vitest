@@ -1,4 +1,4 @@
-# TypeScript Template with ESLint, Neostandard and Vitest
+# TypeScript Template with pnpm, ESLint, Neostandard and Vitest
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg)](https://www.typescriptlang.org/)
 [![ESLint](https://img.shields.io/badge/ESLint-9.32-4B32C3.svg)](https://eslint.org/)
@@ -12,6 +12,7 @@ Is to provide a solid foundation for TypeScript projects, combining best practic
 
 ## ✨ Features
 
+- **pnpm** - pacakege manager for fast and efficient dependency management
 - **TypeScript 5.8** - Latest TypeScript with strict mode enabled
 - **ESLint 9** - Flat config system with TypeScript support
 - **Vitest 4.0** - Delightful JavaScript Testing Framework with coverage thresholds
