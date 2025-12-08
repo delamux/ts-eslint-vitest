@@ -1,4 +1,6 @@
 {
+  "author": "luisdelamo.dev",
+  "license": "MIT",
   "name": "ts-eslint-vitest",
   "version": "1.0.0",
   "description": "TypeScript template with ESLint, Neostandard and Vitest",
@@ -25,8 +27,6 @@
     "upgrade": "ncu -i",
     "upgrade:all": "ncu -u"
   },
-  "author": "Softwarecrafters.io",
-  "license": "MIT",
   "devDependencies": {
     "@types/node": "24.1.0",
     "@vitest/coverage-v8": "3.0.5",
